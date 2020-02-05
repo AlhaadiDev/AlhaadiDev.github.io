@@ -1,0 +1,4 @@
+#Wed Nov 27 14:42:34 SGT 2019
+base.0=C\:\\Users\\alhaadi.a\\Desktop\\Flutter_train\\sgparliamentdemo\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
